@@ -24,12 +24,12 @@ body::-webkit-scrollbar-track{
 }
 
 body::-webkit-scrollbar-thumb{
-  background: linear-gradient(blue, cyan);
+  background: linear-gradient(#0ce7c3, rgb(10, 126, 221));
   border-radius: 25vw;
 }
 
 body::-webkit-scrollbar-thumb:hover{
-  background: linear-gradient(#8EEDF7, cyan);
+  background: linear-gradient(#00ffd5, rgb(10, 126, 221));
 }
 
 .category::-webkit-scrollbar{

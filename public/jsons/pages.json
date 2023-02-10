@@ -1,0 +1,48 @@
+{
+  "/": {
+    "name": "Home",
+    "header": true,
+    "important": true,
+    "title": "AquaRover",
+    "subtitle": "Welcome to",
+    "imageSubtitle": "We explore",
+    "imageTitle": "We let others explore! 🔍"
+  },
+  "/about": {
+    "name": "About",
+    "header": true,
+    "important": true,
+    "title": "AquaRover",
+    "subtitle": "About Us",
+    "imageSubtitle": "We conquer",
+    "imageTitle": "THE MOUNTAINS"
+  },
+  "/download": {
+    "name": "Download",
+    "header": true,
+    "title": "AquaRover",
+    "subtitle": "Blogs",
+    "imageSubtitle": "We work",
+    "imageTitle": "until we reach"
+  },
+  "/build": {
+    "name": "Build",
+    "header": false,
+    "title": "AquaRover",
+    "subtitle": "Executives",
+    "imageSubtitle": "We dream",
+    "imageTitle": "We make our dream true"
+  },
+  "/gallery": {
+    "name": "Gallery",
+    "header": true,
+    "title": "AquaRover",
+    "subtitle": "Gallery",
+    "imageSubtitle": "We dream",
+    "imageTitle": "We make our dream true"
+  },
+  "/contact": {
+    "name": "Contact",
+    "header": false
+  }
+}
